@@ -1,0 +1,14 @@
+Package: ggfunnel
+Title: Funnel plots for ggplot2
+Description: 
+Version: 0.1
+Author: Simon Byrne <simonbyrne@gmail.com>
+Maintainer: Simon Byrne <simonbyrne@gmail.com>
+Depends:
+    ggplot2,
+    proto
+License: GPL (>= 2)
+Collate:
+    'ggfunnel.r'
+    'geom-funnel.r'
+    'stat-funnel.r'
