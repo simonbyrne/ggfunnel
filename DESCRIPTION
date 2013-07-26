@@ -6,9 +6,12 @@ Author: Simon Byrne <simonbyrne@gmail.com>
 Maintainer: Simon Byrne <simonbyrne@gmail.com>
 Depends:
     ggplot2,
-    proto
+    proto,
+    scales,
+    plyr
 License: GPL (>= 2)
 Collate:
     'ggfunnel.r'
     'geom-funnel.r'
     'stat-funnel.r'
+    'qfunnel.r'
